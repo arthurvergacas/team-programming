@@ -1,5 +1,11 @@
 export class CountingVowels {
   static count(word) {
-    return 1;
+    let vowels = 0;
+
+    for (let) {
+      return letter;
+    }
+
+    return vowels;
   }
 }
